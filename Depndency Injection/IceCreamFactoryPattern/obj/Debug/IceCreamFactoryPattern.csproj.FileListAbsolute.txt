@@ -1,0 +1,6 @@
+E:\MVC SELF STUDY\2017\Depndency Injection\IceCreamFactoryPattern\bin\Debug\IceCreamFactoryPattern.exe.config
+E:\MVC SELF STUDY\2017\Depndency Injection\IceCreamFactoryPattern\obj\Debug\IceCreamFactoryPattern.csprojResolveAssemblyReference.cache
+E:\MVC SELF STUDY\2017\Depndency Injection\IceCreamFactoryPattern\bin\Debug\IceCreamFactoryPattern.exe
+E:\MVC SELF STUDY\2017\Depndency Injection\IceCreamFactoryPattern\bin\Debug\IceCreamFactoryPattern.pdb
+E:\MVC SELF STUDY\2017\Depndency Injection\IceCreamFactoryPattern\obj\Debug\IceCreamFactoryPattern.exe
+E:\MVC SELF STUDY\2017\Depndency Injection\IceCreamFactoryPattern\obj\Debug\IceCreamFactoryPattern.pdb

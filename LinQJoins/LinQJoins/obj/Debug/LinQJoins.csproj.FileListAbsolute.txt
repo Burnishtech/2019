@@ -1,0 +1,14 @@
+F:\2019\LinQJoins\LinQJoins\bin\Debug\LinQJoins.exe.config
+F:\2019\LinQJoins\LinQJoins\bin\Debug\LinQJoins.exe
+F:\2019\LinQJoins\LinQJoins\bin\Debug\LinQJoins.pdb
+F:\2019\LinQJoins\LinQJoins\obj\Debug\LinQJoins.csprojResolveAssemblyReference.cache
+F:\2019\LinQJoins\LinQJoins\obj\Debug\LinQJoins.csproj.CoreCompileInputs.cache
+F:\2019\LinQJoins\LinQJoins\obj\Debug\LinQJoins.exe
+F:\2019\LinQJoins\LinQJoins\obj\Debug\LinQJoins.pdb
+E:\2019\LinQJoins\LinQJoins\bin\Debug\LinQJoins.exe.config
+E:\2019\LinQJoins\LinQJoins\obj\Debug\LinQJoins.exe
+E:\2019\LinQJoins\LinQJoins\obj\Debug\LinQJoins.pdb
+E:\2019\LinQJoins\LinQJoins\bin\Debug\LinQJoins.exe
+E:\2019\LinQJoins\LinQJoins\bin\Debug\LinQJoins.pdb
+E:\2019\LinQJoins\LinQJoins\obj\Debug\LinQJoins.csprojAssemblyReference.cache
+E:\2019\LinQJoins\LinQJoins\obj\Debug\LinQJoins.csproj.CoreCompileInputs.cache

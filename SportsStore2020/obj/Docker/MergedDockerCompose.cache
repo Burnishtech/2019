@@ -1,0 +1,13 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  sportsstore.webui:
+    build:
+      context: E:\2019\SportsStore2020\SportsStore.WebUI
+      dockerfile: Dockerfile
+    image: sportsstorewebui
+    ports:
+    - target: 80
+version: '3.4'

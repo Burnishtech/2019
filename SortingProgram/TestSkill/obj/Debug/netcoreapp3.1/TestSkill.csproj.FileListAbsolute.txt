@@ -1,0 +1,13 @@
+E:\2019\SortingProgram\TestSkill\bin\Debug\netcoreapp3.1\TestSkill.exe
+E:\2019\SortingProgram\TestSkill\bin\Debug\netcoreapp3.1\TestSkill.deps.json
+E:\2019\SortingProgram\TestSkill\bin\Debug\netcoreapp3.1\TestSkill.runtimeconfig.json
+E:\2019\SortingProgram\TestSkill\bin\Debug\netcoreapp3.1\TestSkill.runtimeconfig.dev.json
+E:\2019\SortingProgram\TestSkill\bin\Debug\netcoreapp3.1\TestSkill.dll
+E:\2019\SortingProgram\TestSkill\bin\Debug\netcoreapp3.1\TestSkill.pdb
+E:\2019\SortingProgram\TestSkill\obj\Debug\netcoreapp3.1\TestSkill.csprojAssemblyReference.cache
+E:\2019\SortingProgram\TestSkill\obj\Debug\netcoreapp3.1\TestSkill.csproj.CoreCompileInputs.cache
+E:\2019\SortingProgram\TestSkill\obj\Debug\netcoreapp3.1\TestSkill.AssemblyInfoInputs.cache
+E:\2019\SortingProgram\TestSkill\obj\Debug\netcoreapp3.1\TestSkill.AssemblyInfo.cs
+E:\2019\SortingProgram\TestSkill\obj\Debug\netcoreapp3.1\TestSkill.dll
+E:\2019\SortingProgram\TestSkill\obj\Debug\netcoreapp3.1\TestSkill.pdb
+E:\2019\SortingProgram\TestSkill\obj\Debug\netcoreapp3.1\TestSkill.genruntimeconfig.cache

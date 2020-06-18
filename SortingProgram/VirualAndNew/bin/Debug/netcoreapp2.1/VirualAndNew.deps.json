@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "VirualAndNew/1.0.0": {
+        "runtime": {
+          "VirualAndNew.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VirualAndNew/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

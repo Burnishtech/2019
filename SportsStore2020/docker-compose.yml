@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  sportsstore.webui:
+    image: ${DOCKER_REGISTRY-}sportsstorewebui
+    build:
+      context: .\SportsStore.WebUI
+      dockerfile: Dockerfile

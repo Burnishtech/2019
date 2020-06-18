@@ -1,0 +1,6 @@
+E:\MVC SELF STUDY\2017\Depndency Injection\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+E:\MVC SELF STUDY\2017\Depndency Injection\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+E:\MVC SELF STUDY\2017\Depndency Injection\AbstractFactory\bin\Debug\AbstractFactory.exe
+E:\MVC SELF STUDY\2017\Depndency Injection\AbstractFactory\bin\Debug\AbstractFactory.pdb
+E:\MVC SELF STUDY\2017\Depndency Injection\AbstractFactory\obj\Debug\AbstractFactory.exe
+E:\MVC SELF STUDY\2017\Depndency Injection\AbstractFactory\obj\Debug\AbstractFactory.pdb

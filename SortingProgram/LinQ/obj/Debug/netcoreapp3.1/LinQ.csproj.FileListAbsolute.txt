@@ -1,0 +1,13 @@
+E:\2019\SortingProgram\LinQ\bin\Debug\netcoreapp3.1\LinQ.exe
+E:\2019\SortingProgram\LinQ\bin\Debug\netcoreapp3.1\LinQ.deps.json
+E:\2019\SortingProgram\LinQ\bin\Debug\netcoreapp3.1\LinQ.runtimeconfig.json
+E:\2019\SortingProgram\LinQ\bin\Debug\netcoreapp3.1\LinQ.runtimeconfig.dev.json
+E:\2019\SortingProgram\LinQ\bin\Debug\netcoreapp3.1\LinQ.dll
+E:\2019\SortingProgram\LinQ\bin\Debug\netcoreapp3.1\LinQ.pdb
+E:\2019\SortingProgram\LinQ\obj\Debug\netcoreapp3.1\LinQ.csprojAssemblyReference.cache
+E:\2019\SortingProgram\LinQ\obj\Debug\netcoreapp3.1\LinQ.csproj.CoreCompileInputs.cache
+E:\2019\SortingProgram\LinQ\obj\Debug\netcoreapp3.1\LinQ.AssemblyInfoInputs.cache
+E:\2019\SortingProgram\LinQ\obj\Debug\netcoreapp3.1\LinQ.AssemblyInfo.cs
+E:\2019\SortingProgram\LinQ\obj\Debug\netcoreapp3.1\LinQ.dll
+E:\2019\SortingProgram\LinQ\obj\Debug\netcoreapp3.1\LinQ.pdb
+E:\2019\SortingProgram\LinQ\obj\Debug\netcoreapp3.1\LinQ.genruntimeconfig.cache

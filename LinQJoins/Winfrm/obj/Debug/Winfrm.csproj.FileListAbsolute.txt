@@ -1,0 +1,10 @@
+E:\2019\LinQJoins\Winfrm\bin\Debug\Winfrm.exe.config
+E:\2019\LinQJoins\Winfrm\bin\Debug\Winfrm.exe
+E:\2019\LinQJoins\Winfrm\bin\Debug\Winfrm.pdb
+E:\2019\LinQJoins\Winfrm\obj\Debug\Winfrm.Properties.Resources.resources
+E:\2019\LinQJoins\Winfrm\obj\Debug\Winfrm.csproj.GenerateResource.Cache
+E:\2019\LinQJoins\Winfrm\obj\Debug\Winfrm.exe
+E:\2019\LinQJoins\Winfrm\obj\Debug\Winfrm.pdb
+E:\2019\LinQJoins\Winfrm\obj\Debug\LinqBasic.Form2.resources
+E:\2019\LinQJoins\Winfrm\obj\Debug\Winfrm.csprojAssemblyReference.cache
+E:\2019\LinQJoins\Winfrm\obj\Debug\Winfrm.csproj.CoreCompileInputs.cache

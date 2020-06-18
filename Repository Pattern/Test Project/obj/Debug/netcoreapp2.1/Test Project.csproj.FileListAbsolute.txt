@@ -1,0 +1,14 @@
+E:\2019\Repository Pattern\Test Project\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\2019\Repository Pattern\Test Project\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\2019\Repository Pattern\Test Project\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\2019\Repository Pattern\Test Project\bin\Debug\netcoreapp2.1\Test Project.deps.json
+E:\2019\Repository Pattern\Test Project\bin\Debug\netcoreapp2.1\Test Project.runtimeconfig.json
+E:\2019\Repository Pattern\Test Project\bin\Debug\netcoreapp2.1\Test Project.runtimeconfig.dev.json
+E:\2019\Repository Pattern\Test Project\bin\Debug\netcoreapp2.1\Test Project.dll
+E:\2019\Repository Pattern\Test Project\bin\Debug\netcoreapp2.1\Test Project.pdb
+E:\2019\Repository Pattern\Test Project\obj\Debug\netcoreapp2.1\Test Project.csprojAssemblyReference.cache
+E:\2019\Repository Pattern\Test Project\obj\Debug\netcoreapp2.1\Test Project.csproj.CoreCompileInputs.cache
+E:\2019\Repository Pattern\Test Project\obj\Debug\netcoreapp2.1\Test Project.AssemblyInfoInputs.cache
+E:\2019\Repository Pattern\Test Project\obj\Debug\netcoreapp2.1\Test Project.AssemblyInfo.cs
+E:\2019\Repository Pattern\Test Project\obj\Debug\netcoreapp2.1\Test Project.dll
+E:\2019\Repository Pattern\Test Project\obj\Debug\netcoreapp2.1\Test Project.pdb

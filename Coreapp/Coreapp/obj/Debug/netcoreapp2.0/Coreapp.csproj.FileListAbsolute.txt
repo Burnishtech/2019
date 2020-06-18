@@ -1,0 +1,11 @@
+F:\2019\Coreapp\Coreapp\bin\Debug\netcoreapp2.0\Coreapp.deps.json
+F:\2019\Coreapp\Coreapp\bin\Debug\netcoreapp2.0\Coreapp.runtimeconfig.json
+F:\2019\Coreapp\Coreapp\bin\Debug\netcoreapp2.0\Coreapp.runtimeconfig.dev.json
+F:\2019\Coreapp\Coreapp\bin\Debug\netcoreapp2.0\Coreapp.dll
+F:\2019\Coreapp\Coreapp\bin\Debug\netcoreapp2.0\Coreapp.pdb
+F:\2019\Coreapp\Coreapp\obj\Debug\netcoreapp2.0\Coreapp.csprojResolveAssemblyReference.cache
+F:\2019\Coreapp\Coreapp\obj\Debug\netcoreapp2.0\Coreapp.csproj.CoreCompileInputs.cache
+F:\2019\Coreapp\Coreapp\obj\Debug\netcoreapp2.0\Coreapp.AssemblyInfoInputs.cache
+F:\2019\Coreapp\Coreapp\obj\Debug\netcoreapp2.0\Coreapp.AssemblyInfo.cs
+F:\2019\Coreapp\Coreapp\obj\Debug\netcoreapp2.0\Coreapp.dll
+F:\2019\Coreapp\Coreapp\obj\Debug\netcoreapp2.0\Coreapp.pdb

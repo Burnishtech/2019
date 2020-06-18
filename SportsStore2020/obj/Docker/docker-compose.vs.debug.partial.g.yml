@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  sportsstore.webui:
+    image: sportsstorewebui:dev
+    build:
+      args:
+        source: obj/Docker/empty/
+    volumes:
+      - E:\2019\SportsStore2020\SportsStore.WebUI:C:\inetpub\wwwroot
+      - :C:\remote_debugger:ro
+    entrypoint: cmd /c "start /B C:\\ServiceMonitor.exe w3svc & C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646"
+
